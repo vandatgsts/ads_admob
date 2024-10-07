@@ -1,4 +1,4 @@
-package com.drum.pad.music.ads
+
 
 import android.content.Context
 import android.util.Log

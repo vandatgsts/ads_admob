@@ -1,16 +1,9 @@
-package com.drum.pad.music.ads
+
 
 import android.content.Context
 import android.util.Log
 import android.view.LayoutInflater
 import android.widget.FrameLayout
-import com.drum.pad.music.MyApplication
-import com.drum.pad.music.databinding.IntroNativeAdsBinding
-import com.drum.pad.music.databinding.ItemSmallListAdsBinding
-import com.drum.pad.music.databinding.MediumNativeAdsBinding
-import com.drum.pad.music.databinding.SmallNativeAdsBinding
-import com.drum.pad.music.helper.RemoteConfig
-import com.drum.pad.music.util.AppFlyer
 import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdLoader
 import com.google.android.gms.ads.AdRequest

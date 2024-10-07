@@ -1,13 +1,11 @@
-package com.drum.pad.music.ads
+
 
 import android.annotation.SuppressLint
 import android.app.Activity
 import android.content.Context
 import android.util.Log
 import com.base.core.utils.SharePrefUtils
-import com.drum.pad.music.MyApplication
-import com.drum.pad.music.helper.RemoteConfig
-import com.drum.pad.music.util.AppFlyer
+
 import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.FullScreenContentCallback

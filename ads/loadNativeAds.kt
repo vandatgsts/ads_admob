@@ -1,8 +1,7 @@
-package com.drum.pad.music.ads
+
 
 import android.content.Context
 import android.util.Log
-import com.drum.pad.music.util.AppFlyer
 import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdLoader
 import com.google.android.gms.ads.AdRequest

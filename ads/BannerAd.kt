@@ -1,4 +1,4 @@
-package com.drum.pad.music.ads
+
 
 import android.content.Context
 import android.os.Bundle
@@ -6,9 +6,7 @@ import android.util.DisplayMetrics
 import android.util.Log
 import android.view.ViewGroup
 import android.view.WindowManager
-import com.drum.pad.music.MyApplication
-import com.drum.pad.music.helper.RemoteConfig
-import com.drum.pad.music.util.AppFlyer
+
 
 import com.google.ads.mediation.admob.AdMobAdapter
 

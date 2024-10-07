@@ -1,4 +1,4 @@
-package com.drum.pad.music.ads
+
 
 import android.app.Activity
 import android.app.Application
@@ -9,10 +9,7 @@ import android.util.Log
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner
 import androidx.lifecycle.ProcessLifecycleOwner
-import com.drum.pad.music.MyApplication
-import com.drum.pad.music.helper.RemoteConfig
-import com.drum.pad.music.presentation.screens.sub.SubActivity
-import com.drum.pad.music.util.AppFlyer
+
 import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.FullScreenContentCallback

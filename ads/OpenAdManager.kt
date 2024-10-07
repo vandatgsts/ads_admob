@@ -1,9 +1,7 @@
-package com.drum.pad.music.ads
+
 
 import android.app.Activity
 import android.util.Log
-import com.drum.pad.music.MyApplication
-import com.drum.pad.music.helper.RemoteConfig
 import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.FullScreenContentCallback

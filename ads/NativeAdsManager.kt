@@ -1,13 +1,6 @@
-package com.drum.pad.music.ads
+
 
 import android.view.View
-import com.drum.pad.music.databinding.IntroNativeAdsBinding
-import com.drum.pad.music.databinding.ItemSmallListAdsBinding
-import com.drum.pad.music.databinding.ItemSmallListAdsMyMusicBinding
-import com.drum.pad.music.databinding.ItemSquareGridAdsBinding
-import com.drum.pad.music.databinding.ItemSquareGridAdsHomeBinding
-import com.drum.pad.music.databinding.MediumNativeAdsBinding
-import com.drum.pad.music.databinding.SmallNativeAdsBinding
 
 import com.google.android.gms.ads.nativead.NativeAd
 
